@@ -1,0 +1,28 @@
+january
+    do FBG countings;                                Ilya
+    make them output on screen;                      Ilya
+
+february
+    start file rebuild system;                       Dima
+    make interface for that;                         Dima
+    get examples;                                    Oleg
+    get algorithm;                                   Dima
+    set algorithm;                                   Ilya
+    tests;                                           Together
+
+march
+    start file exploration system;                   Dima
+    make interface;                                  Ilya
+    get examples;                                    Oleg
+    get algorithm;                                   Dima
+    tests;                                           Together
+
+april
+    start count resonator system;                    Dima
+    make interface for that;                         Dima
+    get examples;                                    Oleg
+    get algorithm formulas;                          Ilya
+    tests;                                           Together
+
+may
+    graphics, beauty and other systems;              idk
